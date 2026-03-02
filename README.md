@@ -1,6 +1,6 @@
 # Multimodal Lung Cancer Detection (3D CT + Structured Fusion)
 
-A modular deep learning pipeline for lung cancer classification using volumetric CT scans and radiologist-annotated structured features from the LIDC-IDRI 
+A modular deep learning pipeline for lung cancer classification using volumetric CT scans and radiologist-annotated structured features from the LIDC-IDRI dataset.
 
 This project implements a multimodal architecture combining:
 
